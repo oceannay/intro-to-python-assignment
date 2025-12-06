@@ -44,4 +44,4 @@ If you prefer a notebook format, you can import the code into a Jupyter notebook
 
 ## 🔍 Purpose
 
-The goal of this project is to demonstrate foundational Python skills for psychological and data analysis contexts, focusing on clear, well-commented code and correct use of core data structures.[file:58]
+The goal of this project is to demonstrate foundational Python skills for psychological and data analysis contexts, focusing on clear, well-commented code and correct use of core data structures.
